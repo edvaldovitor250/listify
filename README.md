@@ -4,6 +4,15 @@ Bem-vindo ao "Listify"! Este é um projeto que foi desenvolvido com paixão e de
 
 ![Listify](https://github.com/edvaldovitor250/Listify/assets/116117189/33ce830b-ee6a-45ba-9ca7-6d69c7a75205)
 
+## Índice
+1. [Tela de Login](#tela-de-login)
+2. [Acesso ao Projeto](#acesso-ao-projeto)
+3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4. [Banco de Dados](#banco-de-dados)
+5. [Como Usar](#como-usar)
+6. [Requisitos](#requisitos)
+7. [Contribuições](#contribuições)
+
 ## Tela de Login
 
 No "Listify", o primeiro passo é acessar a tela de login. Você pode criar um novo usuário ou utilizar suas credenciais existentes. Aqui está uma prévia da tela de login:
